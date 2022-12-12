@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  asset.variations.api:
+    image: ${DOCKER_REGISTRY-}assetvariationsapi
+    build:
+      context: .
+      dockerfile: src/Asset.Variation.Api/Dockerfile

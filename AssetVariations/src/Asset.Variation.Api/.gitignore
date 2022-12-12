@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/obj
+/src/Vitat.Nutritional.API/obj
+/bin/Debug
+/src/Vitat.Nutritional.Api/bin/Debug/net6.0
+/src/Vitat.Nutritional.API_bkp/obj
